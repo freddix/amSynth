@@ -1,11 +1,11 @@
 Summary:	Software synthesizer
 Name:		amSynth
-Version:	1.4.0
+Version:	1.4.2
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Sound
-Source0:	http://amsynth.googlecode.com/files/amsynth-%{version}.tar.gz
-# Source0-md5:	9193d334c89996cf44e98422e03318bb
+Source0:	http://downloads.sourceforge.net/project/amsynthe/amsynth-%{version}.tar.gz
+# Source0-md5:	92aeadad41792e4dfedff5ab16a5cc5e
 BuildRequires:	alsa-lib-devel
 BuildRequires:	autoconf
 BuildRequires:	automake
